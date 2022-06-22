@@ -1,15 +1,15 @@
 {
-	"items": [
-	{
-		"name": "Power Off",
-		"priority": -998,
-		"items":
-		{
-			"if": "\"KindlePaperWhite3\" -m",
-			"name": "Power Off",
-			"priority": 1,
-			"action": "./bin/poweroff.sh"
-		}
-	}
-	]
+    "items": [
+      {
+	  "name": "Power Off",
+	  "priority": -998,
+	  "items":
+	  {
+	      "if": "\"KindlePaperWhite3\" -m",
+	      "name": "Power Off",
+	      "priority": 1,
+	      "action": "./bin/poweroff.sh"
+	  }
+      }
+    ]
 }
