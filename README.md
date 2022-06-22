@@ -6,4 +6,4 @@ Tested on Kindle Paperwhite 3.
 
 ## Install
 
-Copy ~poweroff~ to ~extensions~ directory in Kindle storage.
+Install KUAL and then copy `poweroff` to `extensions` directory in Kindle storage.
